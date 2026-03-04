@@ -802,22 +802,22 @@
         <div class="product-main">
             <div class="gallery">
                 <div class="main-image">
-                    <img id="mainProductImage" src="/WhatsApp Image 2026-03-01 at 12.14.50.jpeg" 
-                         srcset="/WhatsApp Image 2026-03-01 at 12.14.50.jpeg 400w, , "
-                                 /WhatsApp Image 2026-03-01 at 12.14.50.jpeg 800w
-                                 /WhatsApp Image 2026-03-01 at 12.14.50.jpeg 1200w
+                    <img id="mainProductImage" src="/WhatsApp Image 2026-03-01 at 12.14.50.webp" 
+                         srcset="/WhatsApp Image 2026-03-01 at 12.14.50.webp 400w, , "
+                                 /WhatsApp Image 2026-03-01 at 12.14.50.webp 800w
+                                 /WhatsApp Image 2026-03-01 at 12.14.50.webp 1200w
                          sizes="(max-width: 768px) 400px, (max-width: 1200px) 800px, 1200px"
                          alt="Mayortogel - login & daftar">
                 </div>
                 <div class="thumbnail-list">
-                    <div class="thumbnail active" data-src="/WhatsApp Image 2026-03-01 at 12.14.50.jpeg" tabindex="0" role="button" aria-label="Pilih gambar utama">
-                        <img src="/WhatsApp Image 2026-03-01 at 12.14.50.jpeg" alt="Mayortogel - login & daftar">
+                    <div class="thumbnail active" data-src="/WhatsApp Image 2026-03-01 at 12.14.50.webp" tabindex="0" role="button" aria-label="Pilih gambar utama">
+                        <img src="/WhatsApp Image 2026-03-01 at 12.14.50.webp" alt="Mayortogel - login & daftar">
                     </div>
-                    <div class="thumbnail" data-src="/WhatsApp Image 2026-03-01 at 12.14.49.jpeg" tabindex="0" role="button" aria-label="Pilih gambar kemasan belakang">
-                        <img src="/WhatsApp Image 2026-03-01 at 12.14.49.jpeg" alt="Mayortogel - login & daftar">
+                    <div class="thumbnail" data-src="/WhatsApp Image 2026-03-01 at 12.14.49.webp" tabindex="0" role="button" aria-label="Pilih gambar kemasan belakang">
+                        <img src="/WhatsApp Image 2026-03-01 at 12.14.49.webp" alt="Mayortogel - login & daftar">
                     </div>
-                    <div class="thumbnail" data-src="/WhatsApp Image 2026-03-01 at 12.14.48.jpeg" tabindex="0" role="button" aria-label="Pilih gambar isi produk">
-                        <img src="/WhatsApp Image 2026-03-01 at 12.14.48.jpeg" alt="Mayortogel - login & daftar">
+                    <div class="thumbnail" data-src="/WhatsApp Image 2026-03-01 at 12.14.48.webp" tabindex="0" role="button" aria-label="Pilih gambar isi produk">
+                        <img src="/WhatsApp Image 2026-03-01 at 12.14.48.webp" alt="Mayortogel - login & daftar">
                     </div>
                 </div>
             </div>
@@ -963,28 +963,28 @@
             <h2>Produk Terkait</h2>
             <div class="product-grid">
                 <div class="product-card">
-                    <img src="/WhatsApp Image 2026-03-01 at 12.14.47 (1).jpeg" loading="lazy" alt="Indomie Rebus">
+                    <img src="/WhatsApp Image 2026-03-01 at 12.14.47 (1).webp" loading="lazy" alt="Indomie Rebus">
                     <div class="card-info">
                         <h3>Indomie Rebus</h3>
                         <span class="card-price">Rp 10.000</span>
                     </div>
                 </div>
                 <div class="product-card">
-                    <img src="/WhatsApp Image 2026-03-01 at 12.14.48.jpeg" loading="lazy" alt="Mie Sedaap Goreng">
+                    <img src="/WhatsApp Image 2026-03-01 at 12.14.48.webp" loading="lazy" alt="Mie Sedaap Goreng">
                     <div class="card-info">
                         <h3>Mie Sedaap Goreng</h3>
                         <span class="card-price">Rp 10.000</span>
                     </div>
                 </div>
                 <div class="product-card">
-                    <img src="/WhatsApp Image 2026-03-01 at 12.14.49.jpeg" loading="lazy" alt="Pop Mie Goreng">
+                    <img src="/WhatsApp Image 2026-03-01 at 12.14.49.webp" loading="lazy" alt="Pop Mie Goreng">
                     <div class="card-info">
                         <h3>Pop Mie Goreng</h3>
                         <span class="card-price">Rp 10.000</span>
                     </div>
                 </div>
                 <div class="product-card">
-                    <img src="/WhatsApp Image 2026-03-01 at 12.14.50.jpeg" loading="lazy" alt="Sarimi Goreng">
+                    <img src="/WhatsApp Image 2026-03-01 at 12.14.50.webp" loading="lazy" alt="Sarimi Goreng">
                     <div class="card-info">
                         <h3>Sarimi Goreng</h3>
                         <span class="card-price">Rp 10.000</span>
